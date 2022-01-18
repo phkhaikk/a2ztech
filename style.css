@@ -8,10 +8,10 @@ Version: 3.0
 
 /*************** ADD CUSTOM CSS HERE.   ***************/
 body{
-    background-color: red;
+    background-color: gray;
 }
 p{
-    color:#fff;
+    color:#000;
 }
 
 
